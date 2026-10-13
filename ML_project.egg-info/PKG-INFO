@@ -1,0 +1,18 @@
+Metadata-Version: 2.4
+Name: ML_project
+Version: 0.0.1
+Author: Kartikay Sharma
+Author-email: sharmaskartikay06@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
+Requires-Dist: catboost
+Requires-Dist: xgboost
+Requires-Dist: dill
+Requires-Dist: Flask
+Requires-Dist: joblib
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
