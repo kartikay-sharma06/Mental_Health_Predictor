@@ -16,7 +16,7 @@ def error_msg_info(err,err_info:sys):
 
 
 
-class CustomException:
+class CustomException(Exception):
     def __init__(self,err_msg,err_info:sys):
         super().__init__(err_msg)
 
